@@ -18,9 +18,9 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-## Test Coverage
-| File                    | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s |
+<!-- 
+## Test Coverage -->
+<!-- | File                    | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s |
 | ----------------------- | ------- | -------- | ------- | ------- | ----------------- |
 | All files               | 100     | 100      | 100     | 100     |                   |
 | components              | 100     | 100      | 100     | 100     |                   |
@@ -40,4 +40,4 @@ $ npm run generate
 | TheFooter.vue           | 100     | 100      | 100     | 100     |                   |
 | TheHeader.vue           | 100     | 100      | 100     | 100     |                   |
 | pages                   | 100     | 100      | 100     | 100     |                   |
-| index.vue               | 100     | 100      | 100     | 100     |                   |
+| index.vue               | 100     | 100      | 100     | 100     |                   | -->
