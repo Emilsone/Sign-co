@@ -1,6 +1,6 @@
 
 
-![Landing Page](https://www.tailwindtoolbox.com/templates/landing-page.png)
+<!-- ![Landing Page](https://www.tailwindtoolbox.com/templates/landing-page.png) -->
 
 ## Build Setup
 
