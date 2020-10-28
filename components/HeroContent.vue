@@ -8,7 +8,7 @@
         <p class="text-gray-600 pt-2">Sign in to your account.</p>
       </section>
       <section class="mt-10">
-        <form class="" method="POST" action="#">
+        <form class="" netlify>
           <div class="mb-6 pt-3 rounded bg-gray-200">
             <label
               class="block text-gray-700 text-sm font-bold mb-2 ml-3"
