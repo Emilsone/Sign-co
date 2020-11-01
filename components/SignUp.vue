@@ -13,7 +13,7 @@
             <label
               class="block text-gray-700 text-sm font-bold mb-2 ml-3"
               for="email"
-              >Email</label
+              >Name</label
             >
             <input
               type="text"
@@ -25,7 +25,7 @@
             <label
               class="block text-gray-700 text-sm font-bold mb-2 ml-3"
               for="password"
-              >Password</label
+              >Email</label
             >
             <input
               type="password"
@@ -33,12 +33,30 @@
               class="bg-gray-200 rounded w-full text-gray-700 focus:outline-none border-b-4 border-gray-300 focus:border-orange-600 transition duration-500 px-3 pb-3"
             />
           </div>
-          <div class="flex justify-end">
-            <a
-              href="#"
-              class="text-sm text-black hover:text-orange-700 hover:underline mb-6"
-              >Forgot your password?</a
+		  <div class="mb-6 pt-3 rounded bg-gray-200">
+            <label
+              class="block text-gray-700 text-sm font-bold mb-2 ml-3"
+              for="password"
+              >password</label
             >
+            <input
+              type="password"
+              id="password"
+              class="bg-gray-200 rounded w-full text-gray-700 focus:outline-none border-b-4 border-gray-300 focus:border-orange-600 transition duration-500 px-3 pb-3"
+            />
+          </div>
+         
+		 <div class="mb-6 pt-3 rounded bg-gray-200">
+            <label
+              class="block text-gray-700 text-sm font-bold mb-2 ml-3"
+              for="password"
+              >Confirm Password</label
+            >
+            <input
+              type="password"
+              id="password"
+              class="bg-gray-200 rounded w-full text-gray-700 focus:outline-none border-b-4 border-gray-300 focus:border-orange-600 transition duration-500 px-3 pb-3"
+            />
           </div>
           <button
             class="bg-orange-600 hover:bg-purple-700 text-white font-bold py-2 px-8 rounded shadow-lg hover:shadow-xl transition duration-200"
@@ -54,6 +72,6 @@
 
 <script>
 export default {
-  name: 'Login'
+  name: 'SignUp'
 }
 </script>
